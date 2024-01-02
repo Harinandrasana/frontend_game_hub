@@ -31,3 +31,4 @@ const PlatformSelector = ({ onSelectPlatform, selectedPlatform }: Props) => {
 };
 
 export default PlatformSelector;
+
